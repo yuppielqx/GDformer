@@ -11,5 +11,5 @@ GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomal
 bash ./scripts/SMD.sh
 bash ./scripts/MSL.sh
 bash ./scripts/SMAP.sh
-bash ./scripts/PSM.sh
+bash ./scripts/SWaT.sh
 ```
