@@ -8,7 +8,7 @@ GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomal
 2. Download data. You can obtain the benchmark data from the Github Repository of DCdetector ( [here](https://drive.google.com/drive/folders/1RaIJQ8esoWuhyphhmMaH-VCDh-WIluRR) ).
 3. Train and evaluate. We provide the experiment scripts of all benchmarks under the folder `./scripts`. You can reproduce the experiment results as follows:
 ```bash
-bash ./scripts/SMD.sh
+bash ./scripts/PSM.sh
 bash ./scripts/MSL.sh
 bash ./scripts/SMAP.sh
 bash ./scripts/SWaT.sh
